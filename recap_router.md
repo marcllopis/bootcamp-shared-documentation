@@ -50,12 +50,13 @@ Declare all the routes in the render of the component:
 
 (also can write it like this :)
 
+```javascript
 <Switch>
     <Route path="/about" component={About}/>
     <Route path="/users" component={Users}/>
     <Route path="/" component={Home}/>
 </Switch>
-````
+```
 
 In Header.js (or whatever component you want, actually):
 
