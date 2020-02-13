@@ -19,6 +19,11 @@
 ### React
  - Official docs: https://reactjs.org/
 
+## Weekly recaps
+ - Starting with React (props and state): [Here](./recap_starting_with_react.md)
+ - React Router: [Here](./recap_router.md)
+ - How to use an API (fetch and axios): [Here](./recap_api.md)
+
 ## Extra documentation / Useful links
 
 - CSS generators: https://html-css-js.com/css/generator/transform/
