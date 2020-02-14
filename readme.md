@@ -39,14 +39,12 @@
 
 ## Lightning talks
 
-    - Sandra -> 07-02-2020
-    - Akash
-    - Mireia
+    - Sandra -> 14.02.2020 Film industry: [Slides] (https://docs.google.com/presentation/d/17Mbw0zpGhbdgxSgHggyWaZggkIz8UgSicgYAJvoVdIc/edit#slide=id.gc6f8954bc_0_53)
+    - Mireia -> 21.02.2020
     - Rut
     - Vlada
     - Lena
     - Ailin
-    - Binay
     - Julie
     - Maca
 
