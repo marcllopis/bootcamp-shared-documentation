@@ -23,6 +23,11 @@
  - Starting with React (props and state): [Here](./recap_starting_with_react.md)
  - React Router: [Here](./recap_router.md)
  - How to use an API (fetch and axios): [Here](./recap_api.md)
+ - Catch API errors and React Lifecycle: [Here](./recap_catch_lifecycle_fragment.md)
+ - On Submit event in React: [Here](./recap_onSubmit.md)
+ - Arrays methods:
+    - Filter and indexOf: [Here](./recap_filter-indexof.md)
+    - Reduce: [Here](./recap_reduce.md)
 
 ## Extra documentation / Useful links
 
